@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Software Engineer Student i want
-- improve myself about coding .
+- 👋 Hi, I’m Software Engineer Student i want improve myself about coding .
 
 
 <!---
